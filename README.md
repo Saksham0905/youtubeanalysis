@@ -1,2 +1,2 @@
 # youtubeanalysis
-This is a m project on youtube video analysis past few years.
+This is a ml project on youtube video analysis past few years.
